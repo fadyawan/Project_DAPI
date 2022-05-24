@@ -26,6 +26,16 @@ This can be done by installing Git and cloning the repository through terminal/c
 ## Usage
 This repository only contains programs that produces a list of the prime numbers between 0 and 100. By opening the source code and running it, the output is instantly displayed in either the console or the GUI, depending on the version used.
 
+When inside the terminal and inside the folder for the repository, you can do the following lines to run the code.
+```
+python3 PrimeNumbers_V1.py
+```
+Change the filename to change which python program you want to run.
+```
+python3 PrimeNumbers_V3.py
+```
+The UI for the 4th version does not come up so you have to manually open it from opening the file in the folder.
+
 ## License
 Distributed under the MIT License.
 
