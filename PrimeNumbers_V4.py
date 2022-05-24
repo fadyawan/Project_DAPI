@@ -1,4 +1,4 @@
-# Fastest programme, time complexity O(n log long n), with UI
+# with UI
 from tkinter import *
 
 def prime_number_list():
