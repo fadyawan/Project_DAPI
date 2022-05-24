@@ -14,9 +14,9 @@ This can be done by installing Git and cloning the repository through terminal/c
 ## Cloning the repository
 # MacOS
 1. Open terminal.
-2. Type in "brew install git", if the command goes through, proceed to instruction 4, if it doesn't proceed to instruction 3.
+2. Type in `brew install git`, if the command goes through, proceed to instruction 4, if it doesn't proceed to instruction 3.
 3. If the command is rejected with an error, you must download depedencies required to use brew commands.
-4. Now that you have Git, you are able to use Git commands, you can clone the repository by using the command "git clone https://github.com/fadyawan/Project_DAPI "
+4. Now that you have Git, you are able to use Git commands, you can clone the repository by using the command `git clone https://github.com/fadyawan/Project_DAPI`
 
 # Windows
 1. Download Git for Windows, from https://gitforwindows.org/.
